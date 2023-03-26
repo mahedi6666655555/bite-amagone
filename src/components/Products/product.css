@@ -1,0 +1,17 @@
+.mm {
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+}
+
+
+.Product-name{
+  font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: 0.0015em;
+
+color: #0E161A;
+
+}
